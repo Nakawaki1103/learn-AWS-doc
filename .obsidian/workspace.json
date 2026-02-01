@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "無題のファイル.md",
+                "file": "AWS/CI・CD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "無題のファイル"
+              "title": "CI・CD"
             }
           }
         ]
@@ -183,10 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "c8945510cb01a859",
+  "active": "45b9366709b92144",
   "lastOpenFiles": [
+    "AWS/EC2.md",
+    "AWS/RDS.md",
+    "AWS/VPC.md",
+    "AWS/CI・CD.md",
+    "Welcome.md",
     "無題のフォルダ",
-    "無題のファイル.md",
-    "Welcome.md"
+    "無題のファイル.md"
   ]
 }
